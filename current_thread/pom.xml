@@ -8,6 +8,15 @@
         <version>2.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+<!--
+
+    <groupId>com.learn</groupId>
+    <artifactId>hinata</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+-->
+
+
     <groupId>com.hinata</groupId>
     <artifactId>current_thread</artifactId>
     <version>0.0.1-SNAPSHOT</version>
