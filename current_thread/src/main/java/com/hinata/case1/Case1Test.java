@@ -6,5 +6,9 @@ package com.hinata.case1;
 public class Case1Test {
     public static void main(String[] args) {
 
+        for(int i=0;i<100;i++){
+            MyTask myTask=new MyTask();
+
+        }
     }
 }
